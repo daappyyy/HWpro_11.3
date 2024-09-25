@@ -14,6 +14,5 @@ function HandleUserClick(){
     newImg.width = 300;
     newImg.height = 300;
     newImg.alt = 'Zhorik';
-    cardImg.innerHTML = ''; 
     cardImg.appendChild(newImg);
 }
